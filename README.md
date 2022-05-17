@@ -28,6 +28,8 @@
 ```
 git clone https://github.com/DelhinRharl/hello-rails-react-backend.git
 
+```
+
 cd hello-rails-react-backend
 
 ```
@@ -59,7 +61,11 @@ Visit http://localhost:3000/greetings in your browser.
 
 ## Authors
 
+👤 **Affaxed Kiprotich**
 
+- GitHub: [@DelhinRharl](https://github.com/DelhinRharl)
+- Twitter: [@affax-kiprotich](https://twitter.com/affax-kiprotich)
+- LinkedIn: [Affaxed Kiprotich](https://www.linkedin.com/in/affaxed-kiprotich/)
 
 ## 🤝 Contributing
 
