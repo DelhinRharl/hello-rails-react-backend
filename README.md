@@ -28,7 +28,6 @@
 ```
 git clone https://github.com/DelhinRharl/hello-rails-react-backend.git
 
-```
 
 cd hello-rails-react-backend
 
